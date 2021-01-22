@@ -1,0 +1,32 @@
+ - `ls `
+    - list -> returns list of directory
+ - `cd
+    - change directory -> to move between directory
+    - cd .. -> moves to one level up
+ - `pwd`
+    - print current working directory
+ - Ctrl + L or `clear`
+    - clears screen
+ - `~`
+    - called home directory
+ - `mkdir <folder_name>`
+    - create a new folder in the current directory
+ - `cp <source> <destination>`
+    - copy a file/anything
+    - to copy a folder(including its subfolder) that has many stuff inside it use: `cp -r <source> <target>` where -r is called recursively do something...
+ - `rm <file>`
+    - delets files
+    - `rm -f <file>`  permanent delete with forcing
+    - removing a folder with all subdirectory use `rm -r <file>`, recursively delete all subfolders and folders, ask for a y/n
+    - `rm -rf <file>` permanently delets files and its subfolder, where -rf is recurcively force and do something ...
+ - `mv <source> <target>`
+    - to rename files
+ - chmod
+ - ln
+ - touch
+ - rmdir
+ - man
+ - diff
+ - sudo
+ - clear
+ - telnet
