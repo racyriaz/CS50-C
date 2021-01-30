@@ -38,3 +38,6 @@ consider the example2 : `./hello_word 1024 myName`
 | argv[2]      | myName       | string   |
 
 since there are three elements **argc = 3**
+
+each time a program exits it returns an exit status i.e returns '\0'
+normally this is not visible in terminal, but you can see the exit status with `echo $?`
